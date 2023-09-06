@@ -1,0 +1,2 @@
+# TPfinal-ArgPrograma
+Este es un proyecto esta enfocado en la gestion de multitareas , usando un sistema de tarjetas recordatorias que detallen las necesidades a futuro y tengas un acceso facil al momento de empezar el dia 
