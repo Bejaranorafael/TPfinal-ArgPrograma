@@ -11,6 +11,5 @@ Este es un proyecto  enfocado en la gestion de multitareas , usando un sistema d
 =======
 # TPfinal-ArgPrograma
 
-![Diagrama de Flujo](https://github.com/tu_usuario/tu_repositorio/raw/main/diagrama.png)
 
 >>>>>>> main
