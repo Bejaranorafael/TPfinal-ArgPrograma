@@ -1,4 +1,4 @@
-Algoritmo AlmacenamientoTarjetasRecordatorias
+Algoritmo AlmacenamientoTarjetasRecordatorias:
     Dimension tarjetas[100]: Cadena // Declarar un arreglo de cadenas con un tamaño máximo
     Definir opcion, indice, usuario, contrasena como Cadena // Agregar usuario y contraseña
     opcion -> 0: // Inicializar la opción con un valor que no sea 1, 2 o 3
