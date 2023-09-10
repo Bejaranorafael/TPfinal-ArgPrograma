@@ -15,7 +15,7 @@ o Usar pseint para la ejecucion de el programa
 o Pruebas de escritorios previas a la ejecucion
 
 
-•Vereificacion:
+•Verificacione:
 
 o Permitir a los usuarios crear tarjetas recordatorias para gestionar sus actividades.
 
@@ -24,6 +24,8 @@ o Permitir a los usuarios almacenar las tarjetas para la posterior visualizacion
 o Permitir a los usuarios ingresar los datos necesarios .
 
 o Proveer tarjetas especificadas por fechas .
+
+o Esta aplicacion esta pensada para usuario finales , sobre las que tengan una sesion propia 
 
 Metodología de trabajo:
 
