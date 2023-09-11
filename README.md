@@ -25,7 +25,7 @@ o Permitir a los usuarios ingresar los datos necesarios .
 
 o Proveer tarjetas especificadas por fechas .
 
-o Esta aplicacion esta pensada para usuario finales , sobre las que tengan una sesion propia 
+o La aplicacion fue diseñada para se usada para gestionar tareas para un usuario especifico , ya que tendra un login de acceso para que las tarejtas sean visualizadas solo pro el usuario logueado 
 
 Metodología de trabajo:
 
