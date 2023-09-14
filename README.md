@@ -26,6 +26,15 @@ o Permitir a los usuarios ingresar los datos necesarios .
 o Proveer tarjetas especificadas por fechas .
 
 o La aplicacion fue diseñada para se usada para gestionar tareas para un usuario especifico , ya que tendra un login de acceso para que las tarejtas sean visualizadas solo pro el usuario logueado 
+## Workflow
+
+```mermaid
+graph LR
+    A[GIT]-->B[Server]
+    B --> C[+]
+    C --> D[Server Linux]
+    C --> E[Server Windows]
+
 
 Metodología de trabajo:
 
