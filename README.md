@@ -30,10 +30,10 @@ o La aplicacion fue diseñada para se usada para gestionar tareas para un usuari
 
 ```mermaid
 graph LR
-    A[GIT]-->B[Server]
+    A[GIT]-->B[]
     B --> C[+]
-    C --> D[Server Linux]
-    C --> E[Server Windows]
+    C --> D[]
+    C --> E[]
 
 
 Metodología de trabajo:
